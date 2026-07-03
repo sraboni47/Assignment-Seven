@@ -5,14 +5,14 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 
 import Homepage from "./pages/homepage/Homepage";
 import Workpage from "./pages/workpage/Workpage";
-import Mainlayout from "./layout/Mainlayout";
+import Mainlayout from "./layout/MainLayout";
 import Timeline from "./pages/timeline/Timeline";
 import Stats from "./pages/stats/Stats";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Mainlayout />,
+    element: <MainLayout />,
     children: [
       {
         index: true,
