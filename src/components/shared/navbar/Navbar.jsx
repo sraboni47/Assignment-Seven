@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className="bg-white shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-8 md:px-16 py-4 flex items-center justify-between">
-        {/* LOGO */}
+        {/* LOGO Here */}
         <div>
           <img src="/images/logo.png" className="h-6 sm:h-8" />
         </div>

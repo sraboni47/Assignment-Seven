@@ -1,16 +1,79 @@
-# React + Vite
+# 🟢 KeenKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern relationship management web application that helps users keep track of meaningful friendships through interactions, reminders, timelines, and analytics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+🔗 https://your-live-link.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 https://github.com/sraboni47/Assignment-Seven
+
+---
+
+## 📖 Project Description
+
+KeenKeeper is a friendship management application where users can organize and monitor their relationships. Users can view friends, check interaction history, filter timelines, and analyze communication patterns using interactive charts.
+
+---
+
+## 🚀 Technologies Used
+
+- React.js
+- Vite
+- React Router
+- Tailwind CSS
+- DaisyUI
+- Recharts
+
+---
+
+## ✨ Key Features
+
+- 📅 Filter timeline by Text, Call and Video interactions.
+- 📊 Interactive Pie Chart showing communication analytics.
+- 👥 Friend details page with quick actions and relationship tracking.
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/sraboni47/B13-A7-keen-keeper.git
+```
+
+```bash
+cd B13-A7-keen-keeper
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── layout/
+ └── main.jsx
+```
+
+---
+
+## 📜 License
+
+This project is developed for educational purposes.

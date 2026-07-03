@@ -24,12 +24,12 @@ const router = createBrowserRouter([
       },
 
       {
-        path: "timeline",
+        path: "/timeline",
         element: <Timeline />,
       },
 
            {
-  path: "stats",
+  path: "/stats",
   element: <Stats />,
 }
     ],
